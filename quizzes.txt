@@ -1,0 +1,50 @@
+festivo:Noche de Paz:Es un villancico que habla sobre una noche tranquila.
+festivo:Campana sobre Campana:Habla de campanas que suenan en la Navidad.
+festivo:Los Peces en el Rio:Habla sobre los peces que ven a la Virgen María.
+festivo:Santa:Habla de un hombre que viste de rojo y que deja regalos.
+musica:Michael Jackson:Es conocido como el 'Rey del Pop'.
+musica:Freddie Mercury:Fue el vocalista principal de Queen.
+musica:Shakira:Es una cantante famosa por sus movimientos de cadera.
+musica:Romeo Santos:Le dicen que es un poeta por dar Propuestas Indecentes🍷.
+peliculas:Superman:Es un héroe alienígena con capa roja.
+peliculas:Spiderman:Es un héroe que usa telarañas.
+peliculas:Batman:Es el protector de Gotham City.
+peliculas:2012:Es una película sobre la destruccion del planeta y de arcas modernas.
+peliculas:Titanic:Es una película de amor basada en un barco.
+peliculas:Avengers:Es una película de superhéroes que luchan contra Thanos.
+peliculas:Frozen:Una película de Disney sobre una reina de hielo.
+peliculas:Rapunzel:Película de Disney sobre una princesa de cabello largo
+peliculas:El Rey Leon:Película de Disney sobre un león y su destino.
+peliculas:Aladdin:Película de Disney sobre un genio y una lámpara.
+peliculas:La Sirenita:Película de Disney sobre una princesa del océano.
+peliculas:Coco:Película de Disney sobre música y Día de Muertos.
+peliculas:Encanto:Película de Disney sobre una familia mágica.
+peliculas:Pocahontas:Película de Disney sobre naturaleza y culturas.
+peliculas:Hercules:Película de Disney sobre mitología y héroes.
+peliculas:Mulan:Película de Disney sobre una guerrera valiente.
+peliculas:Toy Story:Película de Disney sobre juguetes y amistad.
+peliculas:Blancanieves:Película de Disney sobre una princesa y una manzana.
+peliculas:La Bella y la Bestia:Película de Disney sobre amor y una maldición.
+peliculas:Peter Pan:Película de Disney que trata sobre volar, magia y crecer.
+peliculas:101 Dalmatas:Película de Disney sobre cachorros y una villana.
+peliculas:Dumbo:Película de Disney sobre un elefante que vuela.
+peliculas:Bambi:Película de Disney sobre un cervatillo bebé en el bosque.
+peliculas:Pinocho:Película de Disney sobre una marioneta que sueña.
+peliculas:Alicia en el pais de las Maravillas:Película de Disney sobre un mundo loco y un sombrerero.
+peliculas:La Cenicienta:Película de Disney sobre una zapatilla de cristal y magia.
+peliculas:El Libro de la Selva:Película de Disney sobre un niño y animales salvajes.
+peliculas:Shrek:Película sobre un ogro, un burro y una princesa.
+peliculas:Tarzan:Película de Disney sobre un hombre criado por gorilas.
+peliculas:La Espada en la Piedra:Película de Disney sobre magia y un futuro rey.
+peliculas:Robin Hood:Película de Disney sobre un zorro y un ladrón bondadoso.
+peliculas:El perro y el Sabueso:Película de Disney sobre una amistad entre un zorro y un perro.
+peliculas:Bichos:Película de Pixar sobre insectos y un circo.
+peliculas:Monster inc:Película de Pixar sobre monstruos y una niña.
+peliculas:Buscando a Nemo:Película de Pixar sobre un pez payaso perdido.
+peliculas:Ratatouille:Película de Pixar sobre un ratón que sueña con ser chef.
+peliculas:El planeta del Tesoro:Película de Disney sobre aventuras y un mapa galáctico.
+peliculas:Los Increibles:Película de Pixar sobre una familia de superhéroes.
+peliculas:Cars:Película de Pixar sobre autos y carreras.
+peliculas:Intensamente:Película de Pixar sobre emociones y una niña.
+peliculas:El Expreso Polar:Película sobre un tren mágico y la Navidad.
+peliculas:El gato en el Sombrero:Película sobre un gato travieso y un sombrero mágico.

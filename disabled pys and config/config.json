@@ -1,0 +1,24 @@
+{
+  "_info": {
+    "archivo": "config.json",
+    "modulo": "gemini.py",
+    "descripcion": "Listener automático de Gemini con autodetección de palabras clave (keywords) y respuestas con personalidad.",
+    "Funcion": "Las claves dentro de 'enabled_guilds' son IDs de servidores admitidos. Cada servidor contiene IDs de los canales habilitados.",
+    "importante": "Servidor o canal que no esté registrado aquí, se ignorará el mensaje y no buscará keywords ni generará respuestas automáticas.",
+    "MI_SERVER": "707370786817835099",
+    "TABLITA_SERVER": "952419779086516304"
+  },
+
+  "enabled_guilds": {
+    "707370786817835099": [
+      "1317332004706189384",
+      "960072304212209695"
+    ],
+
+    "952419779086516304": [
+      "952419779673735250",
+      "965507700043685898",
+      "1506704181275267082"
+    ]
+  }
+}

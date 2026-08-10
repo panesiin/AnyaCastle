@@ -1,0 +1,50 @@
+[
+   {
+    "title": "SERVIDOR",
+    "emoji": "🎦",
+    "thumbrl": "https://media.discordapp.net/attachments/1386190643725860916/1386244429509165193/snorl.png?ex=6904633b&is=690311bb&hm=ebfd3b9844a29ea52186ee2ff9fc1c5715e38adc541c8b8e24b8fe369e0afebf&=&format=webp&quality=lossless",
+    "commands": [
+      { "cmd": "KICK","desc": "⚠️ Este solo notifica el LIVE." },
+      { "cmd": "TWITCH","desc": "⚠️ Este solo notifica el LIVE." },
+      { "cmd": "TIKTOK","desc": "⚠️ Este solo notifica el LIVE." },
+      { "cmd": "BIENVENIDA","desc": "⚠️ Este solo notifica un usuario nuevo." }
+    ]
+  },
+  {
+    "title": "DIVERTIDOS",
+    "emoji": "🤣",
+    "thumbrl": "https://media.discordapp.net/attachments/1386190643725860916/1386244347540017192/feliz2.png?ex=68590027&is=6857aea7&hm=8b3eaf2d99f7b41ae35477fc00a0fddf7abc24390210514705cf1bcc1446c8c0&=&format=webp&quality=lossless",
+    "commands": [
+      { "cmd": "!pr", "desc": "Muestro tu perfil de detonadas." },
+      { "cmd": "!nalgada", "desc": "Nalgueas a un usuario." },
+      { "cmd": "!amor",    "desc": "Mido el amor con un banner." },
+      { "cmd": "!detonar",    "desc": "Te botaneas ''secso'' a un usuario." },
+      { "cmd": "!chiste",  "desc": "Te cuento un chiste funable 😉." }
+    ]
+  },
+  {
+    "title": "MINIJUEGOS",
+    "emoji": "🎲",
+    "thumbrl": "https://media.discordapp.net/attachments/1386190643725860916/1386244384516739102/pensar.png?ex=68590030&is=6857aeb0&hm=e83d474c4c0ace3852dc3dd3974b6fed0ca49ccd66c6cbfca1fbd5e3ef058d01&=&format=webp&quality=lossless",
+    "commands": [
+      { "cmd": "!quiz", "desc": "Adivina el Quiz." },
+      { "cmd": "!slots",    "desc": "Inicia un tragamonedas" }
+    ]
+  },
+  {
+    "title": "FESTIVOS",
+    "emoji": "🎈",
+    "thumbrl": "https://media.discordapp.net/attachments/1386190643725860916/1386244270293520505/curiosa.png?ex=68590015&is=6857ae95&hm=287391f4a08655fc504f80e73b072c4d00e26c875520306ae07dd03407f4ca93&=&format=webp&quality=lossless",
+    "commands": [
+      { "cmd": "!deseo",   "desc": "Te doy un deseo navideño🎁." }
+    ]
+  },
+  {
+    "title": "UTILIDADES",
+    "emoji": "🛠️",
+    "thumbrl": "https://media.discordapp.net/attachments/1386190643725860916/1386244430461403236/spy.png?ex=6859003b&is=6857aebb&hm=c0c7f6097195b7033418d5fe5b9454b7865590af3ffb621c0ea4fc52ba2085a8&=&format=webp&quality=lossless",
+    "commands": [
+      { "cmd": "!none",  "desc": "Comandos desactivados de esta seccion."}
+    ]
+  }
+]

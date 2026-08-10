@@ -1,0 +1,37 @@
+{
+  "STREAMER1": {
+    "USERNAME": "nessa.dead",
+    "CHECK_INTERVAL_SEC": 60,
+    "REQUEST_TIMEOUT_SEC": 8,
+    "DISCORD_CHANNEL_ID": 1506704181275267082,
+    "MENTION_ROLE_ID": null,
+    "TITLE_ON": "ENTRAR AL LIVE... TIKTOK",
+    "DESCRIPTION_ON": "↑↑↑ Tap Perres ↑↑↑ \n Chiques @{USERNAME} acaba de prender la tostadora en TikTok.",
+    "TITLE_OFF": "LIVE TERMINADO CHIQUES",
+    "DESCRIPTION_OFF": "@{USERNAME} ha terminado como faraon, pero sin sus 2 horas. "
+  },
+
+  "STREAMER2": {
+    "USERNAME": "yandin_loregonn",
+    "CHECK_INTERVAL_SEC": 60,
+    "REQUEST_TIMEOUT_SEC": 8,
+    "DISCORD_CHANNEL_ID": 1202022011241758802,
+    "MENTION_ROLE_ID": null,
+    "TITLE_ON": "ENTRAR AL LIVE... TIKTOK",
+    "DESCRIPTION_ON": "↑↑↑ TAP TAP ↑↑↑ \n Hey @{USERNAME} ya esta en directo por TIKTOK. 👀",
+    "TITLE_OFF": "LIVE TERMINADO",
+    "DESCRIPTION_OFF": "@{USERNAME} terminó su live, gracias por pasarse."
+  },
+
+  "STREAMER3": {
+    "USERNAME": "tablitaplay",
+    "CHECK_INTERVAL_SEC": 60,
+    "REQUEST_TIMEOUT_SEC": 8,
+    "DISCORD_CHANNEL_ID": 1506704181275267082,
+    "MENTION_ROLE_ID": null,
+    "TITLE_ON": "La Watajer esta en LIVE...",
+    "DESCRIPTION_ON": "↑ ENTRA ↑ \n @everyone Su lesbian favorita, esta en TIKI-TIKI",
+    "TITLE_OFF": "A MIMIR",
+    "DESCRIPTION_OFF": "@{USERNAME} ya se fue a mimir, gracias por pasarse chavales."
+  }    
+}
